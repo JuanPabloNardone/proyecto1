@@ -4,3 +4,6 @@ h1{
 p{
     background-color: azure;
 }
+h2{
+    border: 1px solid blue;
+}
